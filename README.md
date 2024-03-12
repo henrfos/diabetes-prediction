@@ -7,18 +7,18 @@ This repository contains a Python script for predicting diabetes based on variou
 The dataset includes the following features:
 - Number of pregnancies
 - Glucose concentration
-- Blood pressure (mm Hg)
-- Skin thickness (mm)
+- Blood pressure 
+- Skin
 - Insulin level
 - Body mass index (BMI)
-- Diabetes pedigree function
-- Age (years)
+- Diabetes inheritance
+- Age
 
 The target variable is a binary classification indicating the presence(1) or absence(0) of diabetes.
 
 ## Dependencies
 
-- Python 3.x
+- Python
 - Numpy
 - Pandas
 - Scikit-learn
